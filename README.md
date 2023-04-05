@@ -1,5 +1,14 @@
 # Laba-1
 
+Сверстать сайты визитки с использованием Bootstrap + Servlet
+
+Формат страниц:
+
+Услуги(Главная),
+Контакты,
+О нас,
+Обратная связь.
+
 ![image](https://user-images.githubusercontent.com/119112825/229760913-8ed99f2c-fd89-453a-82f6-6b6f0e3b0444.png)
 
 ![image](https://user-images.githubusercontent.com/119112825/229760999-238beb94-88ab-4f27-b6f4-e618a5e444b9.png)
