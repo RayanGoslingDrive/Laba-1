@@ -2,14 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="https://fonts.cdnfonts.com/css/children-should-not-play-with-dead-things" rel="stylesheet">
-    <style>
-        @import url('https://fonts.cdnfonts.com/css/children-should-not-play-with-dead-things');
-    </style>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>JSP - Hello World</title>
 </head>
-
 <body>
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -39,15 +34,10 @@
         </div>
     </nav>
 </div>
-
-
 <div  class='text-center' style="color:black;">
-    <p><span style="font-size: xxx-large ; color: black; font-family: 'CSNPWDT NFI', sans-serif; ">P.A.R.T.Y. - квесты на любой вкус и цвет</span></p>
-<li>Квесты хорроры</li>
-<li>Квесты хорроры с актерами</li>
-<li>Квесты с актерами</li>
+<p >Почта: pirate_party@gmail.com</p>
+<p >Звонки по России: 8-800-666-15-65</p>
 </div>
-
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
