@@ -9,10 +9,10 @@
 О нас,
 Обратная связь.
 
-![image](https://user-images.githubusercontent.com/119112825/229760913-8ed99f2c-fd89-453a-82f6-6b6f0e3b0444.png)
+![image](https://user-images.githubusercontent.com/119112825/230865747-ccb454d7-a47b-4c42-96b0-344b183f0ca5.png)
 
-![image](https://user-images.githubusercontent.com/119112825/229760999-238beb94-88ab-4f27-b6f4-e618a5e444b9.png)
+![image](https://user-images.githubusercontent.com/119112825/230865832-290314ce-6ff4-4e78-819e-8101d54e842f.png)
 
-![image](https://user-images.githubusercontent.com/119112825/229761046-c7e941ba-bb14-4d10-9a83-00920bfe73db.png)
+![image](https://user-images.githubusercontent.com/119112825/230865874-6e0f00bc-d822-4748-b1ea-4627a0db306d.png)
 
-![image](https://user-images.githubusercontent.com/119112825/229761083-6aa82076-7c8f-4075-8a51-d7f18e5e84b6.png)
+![image](https://user-images.githubusercontent.com/119112825/230865918-6e58ac47-7979-4a98-8adb-799f5a7b4bcf.png)
